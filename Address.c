@@ -9,3 +9,4 @@ void main(void)
     printf("\n%x",&y);
     printf("\n%d %d",x,y);
 }
+/*演示变量地址和变量的值*/
