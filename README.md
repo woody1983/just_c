@@ -1,7 +1,7 @@
-just_c
+Github
 ======
 
-About C
+About git
 
 ```
 git checkout -b new_branch || git branch new_office
@@ -18,6 +18,7 @@ git push
 
 `2012-08-06 Commit`
 
+![Alt text](http://img1.douban.com/view/group_topic/large/public/27626318-1.jpg)
 
 This is my Objective-C Project
 
